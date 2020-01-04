@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+ "student":[
+   {"id" : 1,
+   "fullname":"Prashanth",
+   "branch":"mca"
+  },
+  {"id" : 2,
+    "fullname":"naresh",
+    "branch":"e.c.e"
+   },
+   {"id" : 3,
+    "fullname":"prasana",
+    "branch":"cse"
+   },
+   {"id" : 4,
+    "fullname":"suraj",
+    "branch":"civil"
+   },
+   {"id" : 5,
+    "fullname":"venkat",
+    "branch":"it"
+   }
+
+ ],
+   
+
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
